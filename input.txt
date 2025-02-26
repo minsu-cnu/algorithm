@@ -1,6 +1,10 @@
-5 5
-1 1 1
-1 1 2
-1 2 2
-1 2 3
-3 1
+9 8
+antabtica
+antaxtica
+antadtica
+antaetica
+antaftica
+antagtica
+antahtica
+antajtica
+antaktica
